@@ -21,7 +21,6 @@ for (let i = 0; i < pets.length; i++) {
 */
 
 pets.sort();
-console.log(pets);
 
 /* ESERCIZIO 3
     Scrivi del codice per stampare nuovamente in console gli elementi dell'array "pets", questa volta in ordine invertito.
@@ -32,7 +31,7 @@ console.log(pets.reverse());
 /* ESERCIZIO 4
     Scrivi del codice per spostare il primo elemento dall'array "pets" in ultima posizione.
 */
-pets.reverse(); //inverto di nuovo l'array
+
 pets.push(pets[0]);
 pets.shift();
 console.log(pets);
