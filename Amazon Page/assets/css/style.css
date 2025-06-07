@@ -1,0 +1,158 @@
+/* Your styles here */
+
+body{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #E9EDEE;
+
+}
+
+
+
+.logobar{
+    background-color: #222F3F;
+}
+
+header img{
+    width: 10em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+}
+
+nav {
+    background-color: #364759;
+}
+nav a {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul{
+padding-left: 1em;
+}
+
+nav li{
+    display: inline-block;
+    padding: 0.5em;
+}
+
+#container{
+    padding: 0 1.5em;
+    
+}
+
+#orange{
+    background-color: #F56600;
+    color: #FFF6E1;
+    text-align: center;
+    padding: 0.2em;
+    font-size: 1.2em;
+    margin: 2em 0;
+}
+
+#bg-image{
+    background-image: url("../images/bg-image.png");
+    height: 12.5em;
+    text-align: center;
+    color: #F0F1F5;
+    box-sizing: border-box;
+    padding-top: 3.5em;
+}
+
+#bg-image p{
+    font-weight: bold;
+    margin-top: 1.5em;
+}
+
+#find{
+text-align: center;
+background-color: white;
+padding: 0;
+margin-top: 2em;
+margin-bottom: 2em;
+}
+
+#find div{
+    height: 20em;
+    width: 18em;
+    background-size: cover;
+    display: inline-block;
+    margin: 1.2em 0.8em;
+    border-radius: 1em;
+    box-shadow: 5px 5px 15px 5px #999999;
+}
+
+#container p{
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    
+}
+
+#container a{
+    color: #035563;
+    margin-left: 1em;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+
+#find p{
+    text-align: left;
+    margin-left: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 1em 0 0 0;
+        
+}
+
+.under-image{
+    margin-top: 0.2em;
+    margin-bottom: 1.5em;
+}
+
+
+#tablet{
+    background-image: url(../images/img_1.jpg);
+}
+
+#pc{
+    background-image: url(../images/img_2.jpg);
+}
+
+#clock{
+    background-image: url(../images/img_3.jpg);
+}
+
+#pets{
+    background-image: url(../images/img_4.jpg);
+}
+
+#container img{
+    width: 100%;
+    
+}
+
+#bottom{
+    text-align: center;
+    font-weight: bold;
+    background-color: #364759;
+    padding: 1em;
+}
+
+#bottom a {
+    color: white;
+}
+
+#bottom-logo{
+    text-align: center;
+    padding-top: 2.5em;
+    padding-bottom: 3.3em;
+}
+
+#bottom-logo img{
+    width:13em
+}
+
+
